@@ -1,7 +1,8 @@
 body {
   background-image: url('/images/background.jpg');
-  background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   background-color: #ADD6F2;
   font-family: 'Yellowtail', cursive;
 }
