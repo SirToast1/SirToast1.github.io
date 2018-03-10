@@ -6,3 +6,12 @@ body {
   background-color: #ADD6F2;
   font-family: 'Yellowtail', cursive;
 }
+.col-sm-4 {
+  background-color: #ADD6F2
+}
+.col-sm-5 {
+  background-image: url("/images/background.jpg");
+}
+.col-sm-6 {
+  background-color: #ADD6F2
+}
